@@ -1,0 +1,55 @@
+html,body {
+  height: 100%;
+}
+.row {
+  height: 100%;
+}
+.col-sm-4 {
+  background-color:grey;
+}
+.rounded-circle{
+  text-align: center;
+  display: block;
+  margin-top: 10%;
+ 
+}
+.h3, h3 {
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+.icons {
+  margin-top: 6%;
+  margin-right: 5%;
+  margin-left: 9%;
+  vertical-align: middle;
+}
+.icons, a {
+  color: black;
+}
+.h5, i {
+  margin-right: 5%;
+}
+.col-sm-4, h5 {
+padding-bottom: 2.2%;
+}
+.col-sm-8, h2 {
+  text-align: center;
+  margin-top: 3%;
+}
+.col-sm-8 h3 {
+  text-align: justify;
+  margin-top: 8%;
+  margin-left: 6%;
+}
+.about-me p {
+  text-align: justify;
+  margin-top: 2%;
+  margin-left: 6%;
+  margin-right: 6%;
+}
+.photo h4 {
+  text-align: center;
+  margin-top: 4%;
+  text-decoration: underline;
+}
